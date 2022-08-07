@@ -1,0 +1,5 @@
+- reusable html component (https://www.freecodecamp.org/news/reusable-html-components-how-to-reuse-a-header-and-footer-on-a-website/)
+- add navbar with resources for quick access (e.g. hunger scale, breathing exercise, etc.)
+    - box breathing (https://codepen.io/joshadamous/pen/MWQaRZj?utm_campaign=CSS%20Animation%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+    - meditation timer (https://codepen.io/arbolitoloco/full/yoWoqq)
+        - look @ this code for replicating the SPA-like feel and not needing multiple webpages
